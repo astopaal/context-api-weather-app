@@ -1,0 +1,488 @@
+[
+    {
+        "id": 1,
+        "name": "Adana",
+        "latitude": "37.00",
+        "longitude": "35.32"
+    },
+    {
+        "id": 2,
+        "name": "Adıyaman",
+        "latitude": "37.76",
+        "longitude": "38.27"
+    },
+    {
+        "id": 3,
+        "name": "Afyonkarahisar",
+        "latitude": "38.75",
+        "longitude": "30.55"
+    },
+    {
+        "id": 4,
+        "name": "Ağrı",
+        "latitude": "39.71",
+        "longitude": "43.05"
+    },
+    {
+        "id": 5,
+        "name": "Amasya",
+        "latitude": "40.64",
+        "longitude": "35.83"
+    },
+    {
+        "id": 6,
+        "name": "Ankara",
+        "latitude": "39.92",
+        "longitude": "32.85"
+    },
+    {
+        "id": 7,
+        "name": "Antalya",
+        "latitude": "36.88",
+        "longitude": "30.70"
+    },
+    {
+        "id": 8,
+        "name": "Artvin",
+        "latitude": "41.18",
+        "longitude": "41.81"
+    },
+    {
+        "id": 9,
+        "name": "Aydın",
+        "latitude": "37.85",
+        "longitude": "27.84"
+    },
+    {
+        "id": 10,
+        "name": "Balıkesir",
+        "latitude": "39.64",
+        "longitude": "27.88"
+    },
+    {
+        "id": 11,
+        "name": "Bilecik",
+        "latitude": "40.05",
+        "longitude": "30.06"
+    },
+    {
+        "id": 12,
+        "name": "Bingöl",
+        "latitude": "39.06",
+        "longitude": "40.76"
+    },
+    {
+        "id": 13,
+        "name": "Bitlis",
+        "latitude": "38.39",
+        "longitude": "42.12"
+    },
+    {
+        "id": 14,
+        "name": "Bolu",
+        "latitude": "40.57",
+        "longitude": "31.57"
+    },
+    {
+        "id": 15,
+        "name": "Burdur",
+        "latitude": "37.46",
+        "longitude": "30.06"
+    },
+    {
+        "id": 16,
+        "name": "Bursa",
+        "latitude": "40.26",
+        "longitude": "29.06"
+    },
+    {
+        "id": 17,
+        "name": "Çanakkale",
+        "latitude": "40.15",
+        "longitude": "26.41"
+    },
+    {
+        "id": 18,
+        "name": "Çankırı",
+        "latitude": "40.60",
+        "longitude": "33.61"
+    },
+    {
+        "id": 19,
+        "name": "Çorum",
+        "latitude": "40.55",
+        "longitude": "34.95"
+    },
+    {
+        "id": 20,
+        "name": "Denizli",
+        "latitude": "37.77",
+        "longitude": "29.08"
+    },
+    {
+        "id": 21,
+        "name": "Diyarbakır",
+        "latitude": "37.91",
+        "longitude": "40.23"
+    },
+    {
+        "id": 22,
+        "name": "Edirne",
+        "latitude": "41.68",
+        "longitude": "26.56"
+    },
+    {
+        "id": 23,
+        "name": "Elâzığ",
+        "latitude": "38.68",
+        "longitude": "39.22"
+    },
+    {
+        "id": 24,
+        "name": "Erzincan",
+        "latitude": "39.75",
+        "longitude": "39.50"
+    },
+    {
+        "id": 25,
+        "name": "Erzurum",
+        "latitude": "39.90",
+        "longitude": "41.27"
+    },
+    {
+        "id": 26,
+        "name": "Eskişehir",
+        "latitude": "39.77",
+        "longitude": "30.52"
+    },
+    {
+        "id": 27,
+        "name": "Gaziantep",
+        "latitude": "37.06",
+        "longitude": "37.38"
+    },
+    {
+        "id": 28,
+        "name": "Giresun",
+        "latitude": "40.91",
+        "longitude": "38.38"
+    },
+    {
+        "id": 29,
+        "name": "Gümüşhane",
+        "latitude": "40.43",
+        "longitude": "39.50"
+    },
+    {
+        "id": 30,
+        "name": "Hakkâri",
+        "latitude": "37.58",
+        "longitude": "43.73"
+    },
+    {
+        "id": 31,
+        "name": "Hatay",
+        "latitude": "36.40",
+        "longitude": "36.34"
+    },
+    {
+        "id": 32,
+        "name": "Isparta",
+        "latitude": "37.76",
+        "longitude": "30.55"
+    },
+    {
+        "id": 33,
+        "name": "Mersin",
+        "latitude": "36.80",
+        "longitude": "34.63"
+    },
+    {
+        "id": 34,
+        "name": "İstanbul",
+        "latitude": "41.00",
+        "longitude": "28.97"
+    },
+    {
+        "id": 35,
+        "name": "İzmir",
+        "latitude": "38.41",
+        "longitude": "27.12"
+    },
+    {
+        "id": 36,
+        "name": "Kars",
+        "latitude": "40.61",
+        "longitude": "43.10"
+    },
+    {
+        "id": 37,
+        "name": "Kastamonu",
+        "latitude": "41.38",
+        "longitude": "33.78"
+    },
+    {
+        "id": 38,
+        "name": "Kayseri",
+        "latitude": "38.73",
+        "longitude": "35.47"
+    },
+    {
+        "id": 39,
+        "name": "Kırklareli",
+        "latitude": "41.73",
+        "longitude": "27.21"
+    },
+    {
+        "id": 40,
+        "name": "Kırşehir",
+        "latitude": "39.14",
+        "longitude": "34.17"
+    },
+    {
+        "id": 41,
+        "name": "Kocaeli",
+        "latitude": "40.85",
+        "longitude": "29.88"
+    },
+    {
+        "id": 42,
+        "name": "Konya",
+        "latitude": "37.86",
+        "longitude": "32.48"
+    },
+    {
+        "id": 43,
+        "name": "Kütahya",
+        "latitude": "39.41",
+        "longitude": "29.98"
+    },
+    {
+        "id": 44,
+        "name": "Malatya",
+        "latitude": "38.35",
+        "longitude": "38.30"
+    },
+    {
+        "id": 45,
+        "name": "Manisa",
+        "latitude": "38.61",
+        "longitude": "27.42"
+    },
+    {
+        "id": 46,
+        "name": "Kahramanmaraş",
+        "latitude": "37.58",
+        "longitude": "36.93"
+    },
+    {
+        "id": 47,
+        "name": "Mardin",
+        "latitude": "37.32",
+        "longitude": "40.72"
+    },
+    {
+        "id": 48,
+        "name": "Muğla",
+        "latitude": "37.21",
+        "longitude": "28.36"
+    },
+    {
+        "id": 49,
+        "name": "Muş",
+        "latitude": "38.94",
+        "longitude": "41.75"
+    },
+    {
+        "id": 50,
+        "name": "Nevşehir",
+        "latitude": "38.69",
+        "longitude": "34.68"
+    },
+    {
+        "id": 51,
+        "name": "Niğde",
+        "latitude": "37.96",
+        "longitude": "34.68"
+    },
+    {
+        "id": 52,
+        "name": "Ordu",
+        "latitude": "40.98",
+        "longitude": "37.87"
+    },
+    {
+        "id": 53,
+        "name": "Rize",
+        "latitude": "41.02",
+        "longitude": "40.52"
+    },
+    {
+        "id": 54,
+        "name": "Sakarya",
+        "latitude": "40.69",
+        "longitude": "30.43"
+    },
+    {
+        "id": 55,
+        "name": "Samsun",
+        "latitude": "41.29",
+        "longitude": "36.33"
+    },
+    {
+        "id": 56,
+        "name": "Siirt",
+        "latitude": "37.93",
+        "longitude": "41.95"
+    },
+    {
+        "id": 57,
+        "name": "Sinop",
+        "latitude": "42.02",
+        "longitude": "35.15"
+    },
+    {
+        "id": 58,
+        "name": "Sivas",
+        "latitude": "39.74",
+        "longitude": "37.01"
+    },
+    {
+        "id": 59,
+        "name": "Tekirdağ",
+        "latitude": "40.98",
+        "longitude": "27.51"
+    },
+    {
+        "id": 60,
+        "name": "Tokat",
+        "latitude": "40.31",
+        "longitude": "36.55"
+    },
+    {
+        "id": 61,
+        "name": "Trabzon",
+        "latitude": "41.00",
+        "longitude": "39.71"
+    },
+    {
+        "id": 62,
+        "name": "Tunceli",
+        "latitude": "39.30",
+        "longitude": "39.43"
+    },
+    {
+        "id": 63,
+        "name": "Şanlıurfa",
+        "latitude": "37.15",
+        "longitude": "38.79"
+    },
+    {
+        "id": 64,
+        "name": "Uşak",
+        "latitude": "38.68",
+        "longitude": "29.40"
+    },
+    {
+        "id": 65,
+        "name": "Van",
+        "latitude": "38.48",
+        "longitude": "43.40"
+    },
+    {
+        "id": 66,
+        "name": "Yozgat",
+        "latitude": "39.81",
+        "longitude": "34.81"
+    },
+    {
+        "id": 67,
+        "name": "Zonguldak",
+        "latitude": "41.45",
+        "longitude": "31.79"
+    },
+    {
+        "id": 68,
+        "name": "Aksaray",
+        "latitude": "38.36",
+        "longitude": "34.03"
+    },
+    {
+        "id": 69,
+        "name": "Bayburt",
+        "latitude": "40.25",
+        "longitude": "40.22"
+    },
+    {
+        "id": 70,
+        "name": "Karaman",
+        "latitude": "37.17",
+        "longitude": "33.22"
+    },
+    {
+        "id": 71,
+        "name": "Kırıkkale",
+        "latitude": "39.84",
+        "longitude": "33.51"
+    },
+    {
+        "id": 72,
+        "name": "Batman",
+        "latitude": "37.88",
+        "longitude": "41.13"
+    },
+    {
+        "id": 73,
+        "name": "Şırnak",
+        "latitude": "37.41",
+        "longitude": "42.49"
+    },
+    {
+        "id": 74,
+        "name": "Bartın",
+        "latitude": "41.58",
+        "longitude": "32.46"
+    },
+    {
+        "id": 75,
+        "name": "Ardahan",
+        "latitude": "41.11",
+        "longitude": "42.70"
+    },
+    {
+        "id": 76,
+        "name": "Iğdır",
+        "latitude": "39.88",
+        "longitude": "44.00"
+    },
+    {
+        "id": 77,
+        "name": "Yalova",
+        "latitude": "40.65",
+        "longitude": "29.26"
+    },
+    {
+        "id": 78,
+        "name": "Karabük",
+        "latitude": "41.20",
+        "longitude": "32.62"
+    },
+    {
+        "id": 79,
+        "name": "Kilis",
+        "latitude": "36.71",
+        "longitude": "37.12"
+    },
+    {
+        "id": 80,
+        "name": "Osmaniye",
+        "latitude": "37.21",
+        "longitude": "36.17"
+    },
+    {
+        "id": 81,
+        "name": "Düzce",
+        "latitude": "40.84",
+        "longitude": "31.15"
+    }
+]
