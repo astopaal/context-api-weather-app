@@ -12,7 +12,7 @@ export const WeatherProvider = ({ children }) => {
   useEffect(() => {
     const fetchWeatherData = async () => {
       const weather = await GetWeatherData(latitude, longitude);
-      setWeatherData(weather);
+      setWeatherData([weather]);
     };
 
     fetchWeatherData();
