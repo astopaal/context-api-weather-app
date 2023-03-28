@@ -10,5 +10,8 @@ Ardından `npm start` komutu ile projeyi localinizde çalıştırın.
 - Formik
 - Axios
 - Tailwind CSS
+- OpenWeatherMap
 
 ## Ekran Görüntüleri 
+
+![Ekran Görüntüsü](https://i.hizliresim.com/bdckk4m.png)

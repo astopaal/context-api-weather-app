@@ -8,6 +8,7 @@ import WeatherForecast from './components/WeatherForecast/WeatherForecast'
 const App = () => {
   return (
     <div className='items-center flex flex-col mt-20'>
+
       <LocationProvider>
         <WeatherProvider>
           <SelectLocation />

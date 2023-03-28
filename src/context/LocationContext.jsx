@@ -12,10 +12,13 @@ export const LocationProvider = ({children}) => {
 
 
     useEffect(() => {
+
+        //ilk başta kullanıcıdan konum izni istenir
         let data = require('../assets/cities.json')
         if (navigator.geolocation) {
             navigator.geolocation.getCurrentPosition(
                 (position) => {
+                    //eğer izin verildiyse lat ve lon değerleri kullanıcının konumundan alınır
                     let lt = position.coords.latitude.toFixed(2)
                     let ln = position.coords.longitude.toFixed(2)
                     setLatitude(lt)
