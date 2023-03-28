@@ -14,4 +14,4 @@ Ardından `npm start` komutu ile projeyi localinizde çalıştırın.
 
 ## Ekran Görüntüleri 
 
-![Ekran Görüntüsü](https://i.hizliresim.com/bdckk4m.png)
+![Ekran görüntüsü 2023-03-28 230027](https://user-images.githubusercontent.com/85809119/228353818-54089357-4ed3-47ef-88a6-bec41ab0685f.png)
