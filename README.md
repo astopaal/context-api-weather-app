@@ -1,3 +1,5 @@
+https://master--vermillion-churros-eadcb8.netlify.app/
+
 # Uygulamayı  çalıştırmak için
 
 Projeyi `git clone https://github.com/astopaal/context-api-weather-app` komutuyla klonladıktan sonra proje dizininde `npm i`komutu yardımı ile bağlılıkları indirin.
